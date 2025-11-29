@@ -38,9 +38,10 @@
 
 <br />
 
-<!-- Activity Stats -->
+<!-- Activity Stats - Switched to Markdown for Stability -->
 <h3>📊 Activity</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azizhoja&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizhoja&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide_title=true" height="150" alt="languages graph" />
-</div>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Azizhoja&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true" alt="Azizhoja's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizhoja&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide_title=true" alt="Top Langs" />
+</p>
