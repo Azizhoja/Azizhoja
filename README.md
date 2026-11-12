@@ -2,7 +2,7 @@
   <!-- Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=435&lines=Architecting+Autonomous+Agents;Building+Scalable+Infrastructure;Engineering+Intelligence" alt="Typing SVG" />
 
-  <p><em>Focusing on <b>Multi-Agent Systems</b>, <b>RAG Pipelines</b>, and <b>Cloud Native Architecture</b>.</em></p>
+  <p><em><b>Multi-Agent Systems</b>, <b>RAG Pipelines</b>, and <b>Cloud Native Architecture</b>.</em></p>
 
   <!-- Contact Badge -->
   <a href="mailto:azizkhuja_isl@outlook.com">
